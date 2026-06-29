@@ -9,7 +9,7 @@ with automated chain-of-custody documentation and MD5/SHA-256 integrity hashing.
 ## Developed By
 - **Er. Abdul Basit**
 - Under Guidance of **Dr. Syed Nisar Hussain Bukhari** (Scientist-D, NDU Coordinator)
-- NIELIT — NDU Srinagar Campus
+- NIELIT Deemed to be University — (Srinagar Campus)
 
 ---
 
