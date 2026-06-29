@@ -7,8 +7,7 @@ with automated chain-of-custody documentation and MD5/SHA-256 integrity hashing.
 ---
 
 ## Developed By
-- **Er. Abdul Basit** | NDU202500262
-- M.Tech Cyber Forensics, 2nd Semester, Batch 2025
+- **Er. Abdul Basit**
 - Under Guidance of **Dr. Syed Nisar Hussain Bukhari** (Scientist-D, NDU Coordinator)
 - NIELIT — NDU Srinagar Campus
 
